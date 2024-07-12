@@ -25,7 +25,7 @@ body {
 
 .main {
     background: #ffffffad;
-    width: 300px;
+    width: 350px;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
@@ -48,7 +48,7 @@ body {
     border-radius: 10px;
     cursor: pointer;
     color: #000;
-    font-size: 20px;
+    font-size: 18px;
     transition: 0.5s all;
     font-weight: 600;
 }
